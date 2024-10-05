@@ -22,3 +22,8 @@ Este projeto considera um circuito RLC em série ligado a uma fonte de tensão d
 ### Solução da EDO e Gráfico da Tensão no Resistor
 
 O objetivo é escrever um programa em Python que resolva a equação diferencial ordinária (EDO) e plote o gráfico da tensão no resistor em função do tempo.
+
+# Gráfico
+
+![Circuito RLC](Imagem.jpg)
+
