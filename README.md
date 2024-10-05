@@ -17,6 +17,21 @@ Este projeto considera um circuito RLC em série ligado a uma fonte de tensão d
 - **Carga Inicial:** q(𝑡 = 0) = 0
 - **Corrente Inicial:** i(𝑡 = 0) = 0
 
+## Tecnologias Utilizadas
+
+- Python
+- NumPy
+- Matplotlib
+- SciPy
+
+## Instalação
+
+Para rodar o código, você precisará ter o Python instalado em seu computador. Você pode instalar as bibliotecas necessárias usando `pip`:
+
+```bash
+pip install numpy matplotlib scipy
+```
+
 ## Problemas
 
 ### Solução da EDO e Gráfico da Tensão no Resistor
